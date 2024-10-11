@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\IntroTasks\TasksOfIntro\TasksOfIntro\bin\Debug\net8.0\TasksOfIntro.exe
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\IntroTasks\TasksOfIntro\TasksOfIntro\bin\Debug\net8.0\TasksOfIntro.deps.json
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\IntroTasks\TasksOfIntro\TasksOfIntro\bin\Debug\net8.0\TasksOfIntro.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\IntroTasks\TasksOfIntro\TasksOfIntro\bin\Debug\net8.0\TasksOfIntro.dll
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\IntroTasks\TasksOfIntro\TasksOfIntro\bin\Debug\net8.0\TasksOfIntro.pdb
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\IntroTasks\TasksOfIntro\TasksOfIntro\obj\Debug\net8.0\TasksOfIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\IntroTasks\TasksOfIntro\TasksOfIntro\obj\Debug\net8.0\TasksOfIntro.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\IntroTasks\TasksOfIntro\TasksOfIntro\obj\Debug\net8.0\TasksOfIntro.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\IntroTasks\TasksOfIntro\TasksOfIntro\obj\Debug\net8.0\TasksOfIntro.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\IntroTasks\TasksOfIntro\TasksOfIntro\obj\Debug\net8.0\TasksOfIntro.dll
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\IntroTasks\TasksOfIntro\TasksOfIntro\obj\Debug\net8.0\refint\TasksOfIntro.dll
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\IntroTasks\TasksOfIntro\TasksOfIntro\obj\Debug\net8.0\TasksOfIntro.pdb
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\IntroTasks\TasksOfIntro\TasksOfIntro\obj\Debug\net8.0\TasksOfIntro.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\Code Academy\AllOfTasks\IntroTasks\TasksOfIntro\TasksOfIntro\obj\Debug\net8.0\ref\TasksOfIntro.dll

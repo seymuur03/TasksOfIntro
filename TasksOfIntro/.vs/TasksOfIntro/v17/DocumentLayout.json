@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\IntroTasks\\TasksOfIntro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CCA2C-79E4-47EF-A4C5-9A06ECC64B0C}|TasksOfIntro\\TasksOfIntro.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\alloftasks\\introtasks\\tasksofintro\\tasksofintro\\checkchar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CCA2C-79E4-47EF-A4C5-9A06ECC64B0C}|TasksOfIntro\\TasksOfIntro.csproj|solutionrelative:tasksofintro\\checkchar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CCA2C-79E4-47EF-A4C5-9A06ECC64B0C}|TasksOfIntro\\TasksOfIntro.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\alloftasks\\introtasks\\tasksofintro\\tasksofintro\\thebigone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CCA2C-79E4-47EF-A4C5-9A06ECC64B0C}|TasksOfIntro\\TasksOfIntro.csproj|solutionrelative:tasksofintro\\thebigone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CCA2C-79E4-47EF-A4C5-9A06ECC64B0C}|TasksOfIntro\\TasksOfIntro.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\alloftasks\\introtasks\\tasksofintro\\tasksofintro\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CCA2C-79E4-47EF-A4C5-9A06ECC64B0C}|TasksOfIntro\\TasksOfIntro.csproj|solutionrelative:tasksofintro\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CCA2C-79E4-47EF-A4C5-9A06ECC64B0C}|TasksOfIntro\\TasksOfIntro.csproj|c:\\users\\hp\\onedrive\\desktop\\code academy\\alloftasks\\introtasks\\tasksofintro\\tasksofintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CCA2C-79E4-47EF-A4C5-9A06ECC64B0C}|TasksOfIntro\\TasksOfIntro.csproj|solutionrelative:tasksofintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\IntroTasks\\TasksOfIntro\\TasksOfIntro\\Program.cs",
+              "RelativeDocumentMoniker": "TasksOfIntro\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\IntroTasks\\TasksOfIntro\\TasksOfIntro\\Program.cs",
+              "RelativeToolTip": "TasksOfIntro\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:13:04.099Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\IntroTasks\\TasksOfIntro\\TasksOfIntro\\Constants.cs",
+              "RelativeDocumentMoniker": "TasksOfIntro\\Constants.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\IntroTasks\\TasksOfIntro\\TasksOfIntro\\Constants.cs",
+              "RelativeToolTip": "TasksOfIntro\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:03:50.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckChar.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\IntroTasks\\TasksOfIntro\\TasksOfIntro\\CheckChar.cs",
+              "RelativeDocumentMoniker": "TasksOfIntro\\CheckChar.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\IntroTasks\\TasksOfIntro\\TasksOfIntro\\CheckChar.cs",
+              "RelativeToolTip": "TasksOfIntro\\CheckChar.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:23:16.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "theBigOne.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\IntroTasks\\TasksOfIntro\\TasksOfIntro\\theBigOne.cs",
+              "RelativeDocumentMoniker": "TasksOfIntro\\theBigOne.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\Code Academy\\AllOfTasks\\IntroTasks\\TasksOfIntro\\TasksOfIntro\\theBigOne.cs",
+              "RelativeToolTip": "TasksOfIntro\\theBigOne.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:16:42.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
